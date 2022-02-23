@@ -1,0 +1,38 @@
+.ui.borderless.topmen.menu {
+  background-color: rgb(241, 241, 241);
+}
+
+.ui.left.aligned.header{
+  color: rgb(255, 255, 255);
+}
+
+.ui.blue.button{
+  background-color: rgb(0, 50, 235);
+}
+
+.right.item {
+  color: rgb(0, 50, 235) !important;
+}
+
+.news {
+  background-color: #001046;
+  color: white;
+
+}
+
+Montserrat
+
+h1 {
+  font-size: 70px;
+
+}
+
+.footer{
+  background-color: #001046;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 50px;
+}
+
+
