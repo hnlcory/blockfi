@@ -10,7 +10,7 @@
   padding-bottom: 30px;
 }
 
-h1.ui.men.header{
+h1.ui.men.header, ui.tradepage.header{
   font-size: 70px;
   font-weight: 700;
 }
@@ -31,9 +31,19 @@ h2.ui.header {
   font-size: 18px;
 }
 
-.ui.left.aligned.header{
+.ui.left.aligned.header {
   color: rgb(255, 255, 255);
 
+}
+
+.ui.center.aligned.header {
+  padding-top: 40px;
+}
+
+.ui.tinyblue.header {
+  color: rgb(0, 50, 235);
+  font-size: 12px;
+  font-weight: 900;
 }
 
 .ui.blue.button{
@@ -52,6 +62,10 @@ h2.ui.header {
 
 }
 
+.choice.paragraph {
+  text-align: center;
+  font-family: 'Montserrat';
+}
 
 .footer{
   font-family: 'Montserrat';
