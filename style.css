@@ -5,6 +5,11 @@
   font-family: 'Montserrat';
 }
 
+.cardpage {
+  background-color: rgb(241, 241, 241);
+  padding-bottom: 30px;
+}
+
 h1.ui.men.header{
   font-size: 70px;
   font-weight: 700;
